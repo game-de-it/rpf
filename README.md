@@ -1,6 +1,8 @@
 # retroid pocket flip
 retroid pocket flipのsleep mode trickを5秒で実行するためのスクリプト。  
-Script for retroid pocket flip's sleep mode trick in 5 seconds.
+通常はスリープモードを15分間維持しなくてはいけませんが、このスクリプトによって5秒に短縮できます。  
+Script for retroid pocket flip's sleep mode trick in 5 seconds.  
+Normally I have to stay in sleep mode for 15 minutes, but this script cuts it down to 5 seconds.  
 
 
 
